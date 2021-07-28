@@ -58,7 +58,7 @@ a {
 
 /* Pre Header Style */
 #pre-header {
-	background-color: #3c3acd;;
+	background-color: #2a378c;;
 	text-align: center;
 }
 #pre-header span {
@@ -101,7 +101,7 @@ a {
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .show>.nav-link {
-	color: #3c3acd;;
+	color: #2a378c;;
 }
 .navbar:after {
 	width: 100%;
@@ -116,8 +116,8 @@ a {
 	background-image: none;
 }
 .navbar-dark .navbar-toggler {
-	border-color: #3c3acd;
-	background-color: #3c3acd;	
+	border-color: #2a378c;
+	background-color: #2a378c;	
 	height: 50px;
 	outline: none;
 }
@@ -152,7 +152,7 @@ a {
 .banner .caption .line-dec {
 	width: 30px;
 	height: 5px;
-	background-color: #3c3acd;;
+	background-color: #2a378c;;
 }
 .banner .caption p {
 	margin-top: 15px;
@@ -183,10 +183,10 @@ a {
 	transition: all 0.5s;
 }
 .featured-item:hover h4 {
-	color: #3c3acd;;
+	color: #2a378c;;
 }
 .featured-item h6 {
-	color: #3c3acd;;
+	color: #2a378c;;
 	font-size: 15px;
 	font-weight: 700;
 	margin-bottom: 0px;
@@ -199,7 +199,7 @@ a {
 	outline: none;
 }
 .owl-theme .owl-dots .active span {
-	background-color: #3c3acd;!important;
+	background-color: #2a378c;!important;
 }
 .owl-theme .owl-dots .owl-dot span {
 	background-color: #aaa;
@@ -214,7 +214,7 @@ a {
 
 /* Subscribe Style */
 .subscribe-form {
-	background-color: #3c3acd;;
+	background-color: #2a378c;;
 	padding: 80px 0px;
 	text-align: center;
 }
@@ -261,7 +261,7 @@ a {
 	border-radius: 5px;
 	padding: 10px 15px;
 	display: inline-block;
-	color: #3c3acd;;
+	color: #2a378c;;
 	font-size: 14px;
 	text-transform: uppercase;
 	font-weight: 300;
@@ -303,7 +303,7 @@ a {
 	transition: all 0.5s;
 }
 .footer .footer-menu a:hover {
-	color: #3c3acd;
+	color: #2a378c;
 	text-decoration: none;
 }
 .footer .social-icons {
@@ -325,7 +325,7 @@ a {
 	transition: all 0.5s;
 }
 .footer .social-icons a:hover {
-	background-color: #3c3acd;
+	background-color: #2a378c;
 }
 
 /* Sub Footer Style */
@@ -339,7 +339,7 @@ a {
 	line-height: 60px;
 }
 .sub-footer a {
-	color: #3c3acd;;
+	color: #2a378c;;
 	text-decoration: none;
 }
 
@@ -364,14 +364,14 @@ a {
 	transition: all 0.5s;
 }
 .featured .featured-item:hover h4 {
-	color: #3c3acd;;
+	color: #2a378c;;
 }
 #filter button {
 	outline: none;
 }
 #filter .btn-primary.focus,
 .btn-primary:focus {
-	color: #3c3acd!important;
+	color: #2a378c!important;
 	box-shadow: none!important;
 }
 #filters .btn-primary {
@@ -433,8 +433,8 @@ a {
 }
 .page-navigation ul li a:hover,
 .page-navigation ul li.current-page a {
-	background-color: #3c3acd;
-	border-color: #3c3acd;
+	background-color: #2a378c;
+	border-color: #2a378c;
 	color: #fff;
 }
 
@@ -461,7 +461,7 @@ a {
 	margin-top: 0px;
 }
 .single-product .right-content h6 {
-	color: #3c3acd;
+	color: #2a378c;
 	font-size: 17px;
 	font-weight: 700;
 	margin-top: 10px;
@@ -472,7 +472,7 @@ a {
 }
 .single-product .right-content span {
 	font-size: 14px;
-	color: #3c3acd;;
+	color: #2a378c;;
 	font-weight: 500;
 	display: inline-block;
 	margin-bottom: 15px;
@@ -497,7 +497,7 @@ a {
 .single-product .right-content .button {
 	margin-left: 15px;
 	cursor: pointer;
-	background-color: #3c3acd;;
+	background-color: #2a378c;;
 	outline: none;
 	border-radius: 5px;
 	padding: 10px 15px;
@@ -525,10 +525,10 @@ a {
 	transition: all 0.5s;
 }
 .single-product .right-content .down-content span a:hover {
-	color: #3c3acd;;
+	color: #2a378c;;
 }
 .single-product .right-content .down-content span a:hover i {
-	background-color: #3c3acd;;
+	background-color: #2a378c;;
 }
 .single-product .right-content .down-content span a i {
 	transition: all 0.5s;
@@ -602,7 +602,7 @@ a {
 	font-weight: 400;
 }
 .about-page .right-content span a:hover i {
-	background-color: #3c3acd;;
+	background-color: #2a378c;;
 }
 
 
@@ -657,11 +657,11 @@ a {
 	font-weight: 400;
 }
 .contact-page .right-content span a:hover i {
-	background-color: #3c3acd;;
+	background-color: #2a378c;;
 }
 .contact-page .right-content .button {
 	cursor: pointer;
-	background-color: #3c3acd;;
+	background-color: #2a378c;;
 	outline: none;
 	border-radius: 5px;
 	padding: 10px 15px;
