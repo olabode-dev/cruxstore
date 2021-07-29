@@ -131,7 +131,7 @@ a {
 /* Banner Style */
 .banner {
 	margin-top: 50px;
-	background-image: url(../images/banner-bg.jpg);
+	background-image: url(/assets/images/banner-bg.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	padding: 150px 0px;
@@ -171,6 +171,7 @@ a {
 }
 .featured-item:hover {
 	opacity: 0.9;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
 .featured-item img {
 	width: 100%;
@@ -199,7 +200,7 @@ a {
 	outline: none;
 }
 .owl-theme .owl-dots .active span {
-	background-color: #2a378c;!important;
+	background-color: #2a378c !important;
 }
 .owl-theme .owl-dots .owl-dot span {
 	background-color: #aaa;
